@@ -1,6 +1,6 @@
 {
   "name": "@drecom/pixi-fittext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for PIXI.js that changes the scale depending on the length of the string.",
   "main": "lib/pixi-fittext.min.js",
   "types": "lib/types/",
