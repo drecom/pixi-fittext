@@ -22,5 +22,5 @@ const fitText = new FitText("Hello FitText!", requiredWidth, { fill: 0xFFFFFF })
 fitText.text = "adjust x scale auto.";
 ```
 
-![fittext1](./fittext1.png)  
-![fittext2](./fittext2.png)
+![fittext1](https://raw.githubusercontent.com/drecom/pixi-fittext/master/fittext1.png)  
+![fittext2](https://raw.githubusercontent.com/drecom/pixi-fittext/master/fittext2.png)
