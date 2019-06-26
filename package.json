@@ -16,6 +16,12 @@
   "keywords": [],
   "author": "Drecom Co.,Ltd.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drecom/pixi-fittext.git"
+  },
+  "homepage": "https://github.com/drecom/pixi-fittext",
+  "bugs": "https://github.com/drecom/pixi-fittext/issues",
   "devDependencies": {
     "@types/pixi.js": "^4.7.3",
     "chai": "^4.2.0",
